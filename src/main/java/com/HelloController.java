@@ -13,6 +13,8 @@ public class HelloController {
 		
 		return "hello";//hello.jsp
 		
+		// This is a controller page
+		
 	}
 	
 
